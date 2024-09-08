@@ -1,4 +1,5 @@
 ---
+layout: about
 permalink: /people/
 title: people
 description: members of the lab
