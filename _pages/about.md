@@ -22,6 +22,8 @@ Wengong Jin is an assistant professor at [Khoury College of Computer Sciences](h
 
 His research focuses on geometric and generative AI models for drug discovery and biology. His work has been published in journals including ICML, NeurIPS, ICLR, Nature, Science, Cell, and PNAS, and covered by such outlets as the Guardian, BBC News, CBS Boston, and the Financial Times. He is the recipient of the BroadIgnite Award, Dimitris N. Chorafas Prize, and MIT EECS Outstanding Thesis Award.
 
+**I am recruting postdoc and PhD students who are interested in AI for drug discovery and biology. If you are interested, please send me an email with your CV.**
+
 # Research highlights
 
 ### Algorithmic innovation:
