@@ -13,7 +13,7 @@ profile:
     <p>177 Huntington Ave</p>
     <p>Boston, MA 02115</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -21,8 +21,6 @@ social: true # includes social icons at the bottom of the page
 Wengong Jin is an assistant professor at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) at Northeastern University. He is also a visiting research scientist in the [Eric and Wendy Schmidt Center at Broad Institute](https://www.broadinstitute.org/ewsc). He obtained his PhD at MIT CSAIL, advised by Prof. Regina Barzilay and Prof. Tommi Jaakkola.
 
 His research focuses on geometric and generative AI models for drug discovery and biology. His work has been published in journals including ICML, NeurIPS, ICLR, Nature, Science, Cell, and PNAS, and covered by such outlets as the Guardian, BBC News, CBS Boston, and the Financial Times. He is the recipient of the BroadIgnite Award, Dimitris N. Chorafas Prize, and MIT EECS Outstanding Thesis Award.
-
-**I am recruting postdoc and PhD students who are interested in AI for drug discovery and biology. If you are interested, please send me an email with your CV.**
 
 # Research highlights
 
@@ -35,7 +33,7 @@ His research focuses on geometric and generative AI models for drug discovery an
  * Generative models for molecular design: [Junction tree VAE (ICML 2018)](https://proceedings.mlr.press/v80/jin18a/jin18a.pdf), [Graph2Graph (ICLR 2019)](https://arxiv.org/pdf/1812.01070), [Hierarchical graph VAE (ICML 2020)](https://proceedings.mlr.press/v119/jin20a/jin20a.pdf), [RationaleRL (ICML 2020)](https://proceedings.mlr.press/v119/jin20b/jin20b.pdf)
  * Graph neural networks: [Weisfeiler-Lehman Network (ICML 2017)](https://proceedings.mlr.press/v70/lei17a/lei17a.pdf), [ChemProp (JCIM 2019)](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00237)
 
-### Impact: drug discovery:
+### Impact: drug discovery
  * Discovery of novel antibiotics: [Cell 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1), [Nature Chemical Biology 2022](https://drive.google.com/file/d/1RtWLbWGwVqEGJKfyVGSwYDoOWohkTt4f/view), [Nature 2023](https://www.nature.com/articles/s41586-023-06887-8)
  * Discovery of synergistic drug combinations: [PNAS 2021](https://www.pnas.org/doi/abs/10.1073/pnas.2105070118), [Nature Communcations (in review)](https://chemrxiv.org/engage/chemrxiv/article-details/662fbd42418a5379b008668e)
 
