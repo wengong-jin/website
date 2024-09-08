@@ -4,30 +4,16 @@ permalink: /people/
 title: people
 description: members of the lab
 nav: true
-nav_order: 3
-horizontal: false
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: left
-    image: prof_pic.jpg
-    content: 
-    image_circular: false # crops the image to make it circular
-    more_info: Tinglin Huang (Yale, Ph.D student)
-  - align: left
-    image: prof_pic.jpg
-    content: 
-    image_circular: false # crops the image to make it circular
-    more_info: Divya Nori (MIT, M.Eng)
-  - align: left
-    image: prof_pic.jpg
-    content: 
-    image_circular: false # crops the image to make it circular
-    more_info: Andrei Tyrin (MIT, SuperUROP)
-  - align: left
-    image: prof_pic.jpg
-    content: 
-    image_circular: false # crops the image to make it circular
-    more_info: Vlad Cherdantsev (MIT, UROP)
+nav_order: 7
 ---
+
+### Postdoc
+* Jiwoong Park (Northeastern)
+
+### Ph.D. students
+* [Tinglin Huang](https://huangtinglin.github.io/) (Yale, co-advised with Rex Ying)
+
+### Undergrads
+* [Divya Nori](https://divnori.github.io/) (MIT)
+* Andrei Tyrin (MIT)
+* Vladislav Cherdantsev (MIT)
