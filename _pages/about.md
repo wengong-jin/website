@@ -13,7 +13,7 @@ profile:
     <p>177 Huntington Ave</p>
     <p>Boston, MA 02115</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
@@ -22,9 +22,13 @@ Wengong Jin is an assistant professor at [Khoury College of Computer Sciences](h
 
 His research focuses on geometric and generative AI models for drug discovery and biology. His work has been published in journals including ICML, NeurIPS, ICLR, Nature, Science, Cell, and PNAS, and covered by such outlets as the Guardian, BBC News, CBS Boston, and the Financial Times. He is the recipient of the BroadIgnite Award, Dimitris N. Chorafas Prize, and MIT EECS Outstanding Thesis Award.
 
-# Research highlights
+**I am recruting postdoc and PhD students who are interested in AI for drug discovery and biology. If you are interested, please send me an email with your CV.**
 
-### Algorithmic innovation:
+<br>
+
+# Research highlights
+---
+### Algorithmic innovation
  * Equivariant neural networks: [FAFormer (in review)](https://arxiv.org/pdf/2406.09586)
  * Diffusion models for binding energy prediction: [Neural Euler's Rotation Equation (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a45a1b0697ee086bd8bf494cacc6567-Paper-Conference.pdf), [DSMBind (in review)](https://www.biorxiv.org/content/10.1101/2023.12.10.570461v1.full.pdf)
  * Generative models for antibody/enzyme/RNA design: [RefineGNN (ICLR 2022)](https://arxiv.org/pdf/2110.04624), [HERN (ICML 2022)](https://arxiv.org/pdf/2207.06616), [SurfPro (ICML 2024)](https://arxiv.org/pdf/2405.06693), [EnzyGen (ICML 2024)](https://arxiv.org/pdf/2405.08205), [RNAFlow (ICML 2024)](https://arxiv.org/pdf/2405.18768)
