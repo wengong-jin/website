@@ -8,10 +8,11 @@ nav_order: 7
 ---
 
 ### Postdoc
-* Jiwoong Park
+* [Jiwoong Park](https://openreview.net/profile?id=~Jiwoong_Park1)
 
-### Ph.D. students
-* [Tinglin Huang](https://huangtinglin.github.io/) (Yale, co-advised)
+### Visiting Ph.D. students
+* [Tinglin Huang](https://huangtinglin.github.io/) (Yale, summer 2023 & 2024)
+* [Zhenqiao Song](https://jocelynsong.github.io/) (CMU, summer 2023)
 
 ### Undergrads
 * [Divya Nori](https://divnori.github.io/) (MIT)
